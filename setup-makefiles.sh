@@ -20,7 +20,7 @@ set -e
 export INITIAL_COPYRIGHT_YEAR=2015
 
 # Required!
-DEVICE=A33
+DEVICE=A33f
 VENDOR=oppo
 
 # Load extractutils and do some sanity checks
