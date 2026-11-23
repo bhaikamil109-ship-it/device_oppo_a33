@@ -2,5 +2,17 @@
   {
     "repository": "android_external_stlport",
     "target_path": "external/stlport"
+  },
+  {
+    "remote": "github",
+    "repository": "yashraj22/kernel_oppo_A37f",
+    "target_path": "kernel/oppo/msm8939",
+    "revision": "lineage-17.1"
+  },
+  {
+    "remote": "github",
+    "repository": "rvvishal/OPPO_A33f_VENDOR_LOS17.1",
+    "target_path": "vendor/oppo",
+    "revision": "lineage-17.1"
   }
 ]
