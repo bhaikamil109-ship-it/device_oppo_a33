@@ -186,4 +186,4 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 WIFI_HIDL_FEATURE_DISABLE_AP_MAC_RANDOMIZATION := true
 
 # Proprietary Prebuilt
--include vendor/oppo/A33/BoardConfigVendor.mk
+-include vendor/oppo/A33f/BoardConfigVendor.mk
