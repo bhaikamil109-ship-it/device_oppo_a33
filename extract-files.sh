@@ -17,7 +17,7 @@
 
 set -e
 
-DEVICE=A33
+DEVICE=A33f
 VENDOR=oppo
 
 # Load extractutils and do some sanity checks
