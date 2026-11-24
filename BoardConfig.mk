@@ -170,6 +170,7 @@ TARGET_LD_SHIM_LIBS := \
 
 # SEpolicy
 BOARD_SEPOLICY_DIRS += \
+    $(PLATFORM_PATH)/sepolicy \
     $(PLATFORM_PATH)/sepolicy_tmp
 
 # Wi-Fi
